@@ -3,7 +3,4 @@
 - 🌱 I’m currently focusing on the field of deeplearning
 - 📫 Connect with me on LinkedIn https://www.linkedin.com/in/asha-holla/
 
-<!---
-AshaHolla/AshaHolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![An image of @ashaholla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashaholla)](https://holopin.io/@ashaholla)
